@@ -31,3 +31,4 @@ class Solution:
 # Example 3:
 # Input: nums = [1]
 # Output: 1
+
