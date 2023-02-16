@@ -19,6 +19,7 @@ class Solution:
     # solution 2 =========
         return reduce(lambda total, el: total ^ el, nums)
 
+    
 
 # Example 1:
 # Input: nums = [2,2,1]
@@ -31,4 +32,5 @@ class Solution:
 # Example 3:
 # Input: nums = [1]
 # Output: 1
+
 
