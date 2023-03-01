@@ -31,6 +31,7 @@ class Solution:
 # Explanation: In this case, no transactions are done and the max profit = 0.
 
 
+
 # Example 3: *******imp*******
 # Input: prices = [2,4,1]
 # Output: 2
