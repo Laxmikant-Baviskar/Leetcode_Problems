@@ -40,7 +40,7 @@ class Solution:
 # ==============================
 # prices = [7,8,1,5,3,6,4]
 # min_val = min(prices) 
-# # low_index = prices.index(min_val)
+# # low_index = prices.index(min_val
 # i = prices.index(min_val)
 
 # max_i = max(prices[i : ])
