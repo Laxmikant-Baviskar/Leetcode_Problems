@@ -17,6 +17,7 @@ class Solution:
             return c   
 
 
+        
 # Example 1:
 # Input: n = 2
 # Output: 1
