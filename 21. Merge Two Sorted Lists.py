@@ -47,3 +47,4 @@ Output: []
 Example 3:
 Input: list1 = [], list2 = [0]
 Output: [0]
+    
